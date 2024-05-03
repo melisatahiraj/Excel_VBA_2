@@ -1,4 +1,4 @@
-# VBA-challenge-2
+# Excel VBA
 
 ## Requirements
 
